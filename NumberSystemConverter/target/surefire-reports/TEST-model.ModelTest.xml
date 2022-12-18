@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="model.ModelTest" time="0.219" tests="57" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="java.specification.version" value="19"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1250"/>
+    <property name="java.class.path" value="D:\Pobrane\Piatek.Bartlomiej.cw3.Prototyp\Zadanie3\target\test-classes;D:\Pobrane\Piatek.Bartlomiej.cw3.Prototyp\Zadanie3\target\classes;C:\Users\Quecheri\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.6.0\junit-jupiter-api-5.6.0.jar;C:\Users\Quecheri\.m2\repository\org\apiguardian\apiguardian-api\1.1.0\apiguardian-api-1.1.0.jar;C:\Users\Quecheri\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\Quecheri\.m2\repository\org\junit\platform\junit-platform-commons\1.6.0\junit-platform-commons-1.6.0.jar;C:\Users\Quecheri\.m2\repository\org\junit\jupiter\junit-jupiter-params\5.6.0\junit-jupiter-params-5.6.0.jar;C:\Users\Quecheri\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.6.0\junit-jupiter-engine-5.6.0.jar;C:\Users\Quecheri\.m2\repository\org\junit\platform\junit-platform-engine\1.6.0\junit-platform-engine-1.6.0.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="https://java.oracle.com/"/>
+    <property name="user.timezone" value="Europe/Warsaw"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="java.vm.specification.version" value="19"/>
+    <property name="user.country" value="PL"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.boot.library.path" value="D:\Program Files\Java19\bin"/>
+    <property name="sun.java.command" value="C:\Users\Quecheri\AppData\Local\Temp\surefire14890874919861728513\surefirebooter10171725925173449094.jar C:\Users\Quecheri\AppData\Local\Temp\surefire14890874919861728513 2022-12-05T21-17-16_818-jvmRun1 surefire851193500952416835tmp surefire_02010977939831727714tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="D:\Pobrane\Piatek.Bartlomiej.cw3.Prototyp\Zadanie3\target\test-classes;D:\Pobrane\Piatek.Bartlomiej.cw3.Prototyp\Zadanie3\target\classes;C:\Users\Quecheri\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.6.0\junit-jupiter-api-5.6.0.jar;C:\Users\Quecheri\.m2\repository\org\apiguardian\apiguardian-api\1.1.0\apiguardian-api-1.1.0.jar;C:\Users\Quecheri\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\Quecheri\.m2\repository\org\junit\platform\junit-platform-commons\1.6.0\junit-platform-commons-1.6.0.jar;C:\Users\Quecheri\.m2\repository\org\junit\jupiter\junit-jupiter-params\5.6.0\junit-jupiter-params-5.6.0.jar;C:\Users\Quecheri\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.6.0\junit-jupiter-engine-5.6.0.jar;C:\Users\Quecheri\.m2\repository\org\junit\platform\junit-platform-engine\1.6.0\junit-platform-engine-1.6.0.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\Quecheri"/>
+    <property name="user.language" value="pl"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2022-10-18"/>
+    <property name="java.home" value="D:\Program Files\Java19"/>
+    <property name="file.separator" value="\"/>
+    <property name="basedir" value="D:\Pobrane\Piatek.Bartlomiej.cw3.Prototyp\Zadanie3"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="surefire.real.class.path" value="C:\Users\Quecheri\AppData\Local\Temp\surefire14890874919861728513\surefirebooter10171725925173449094.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="19.0.1+10-21"/>
+    <property name="user.name" value="Quecheri"/>
+    <property name="stdout.encoding" value="Cp1250"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="maven.ext.class.path" value="D:\Program Files\NetBeans-15\netbeans\java\maven-nblib\netbeans-eventspy.jar"/>
+    <property name="localRepository" value="C:\Users\Quecheri\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\Quecheri\AppData\Local\Temp\"/>
+    <property name="java.version" value="19.0.1"/>
+    <property name="user.dir" value="D:\Pobrane\Piatek.Bartlomiej.cw3.Prototyp\Zadanie3"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="native.encoding" value="Cp1250"/>
+    <property name="java.library.path" value="D:\Program Files\Java19\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\Common Files\Oracle\Java\javapath;D:\Program Files\Python 3.10\Scripts\;D:\Program Files\Python 3.10\;C:\Program Files\Microsoft\jdk-11.0.12.7-hotspot\bin;D:\PROGRA~1\Borland\Bin;D:\PROGRA~1\Borland\Projects\Bpl;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;D:\Program Files\GitExtension\;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\dotnet\;D:\Program Files\Meld\;C:\Program Files\SourceGear\Common\DiffMerge\;C:\Users\Quecheri\AppData\Local\Programs\Python\Python37\Scripts\;C:\Users\Quecheri\AppData\Local\Programs\Python\Python37\;C:\Users\Quecheri\AppData\Local\Microsoft\WindowsApps;D:\Program Files\Python 3.10;D:\Program Files\Python 3.10\Lib\site-packages;D:\Program Files\Python 3.10\Scripts;;D:\Program Files\JetBrains\PyCharm Community Edition 2022.2.2\bin;;D:\Program Files\Microsoft VS Code\bin;C:\Users\Quecheri\.dotnet\tools;."/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="stderr.encoding" value="Cp1250"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.version" value="19.0.1+10-21"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="63.0"/>
+  </properties>
+  <testcase name="isArabicNumberFailTest{String}[1]" classname="model.ModelTest" time="0.074"/>
+  <testcase name="isArabicNumberFailTest{String}[2]" classname="model.ModelTest" time="0.001"/>
+  <testcase name="isArabicNumberFailTest{String}[3]" classname="model.ModelTest" time="0"/>
+  <testcase name="isArabicNumberFailTest{String}[4]" classname="model.ModelTest" time="0"/>
+  <testcase name="isArabicNumberFailTest{String}[5]" classname="model.ModelTest" time="0"/>
+  <testcase name="isArabicNumberFailTest{String}[6]" classname="model.ModelTest" time="0.001"/>
+  <testcase name="isArabicNumberFailTest{String}[7]" classname="model.ModelTest" time="0.001"/>
+  <testcase name="isArabicNumberFailTest{String}[8]" classname="model.ModelTest" time="0.001"/>
+  <testcase name="isArabicNumberFailTest{String}[9]" classname="model.ModelTest" time="0"/>
+  <testcase name="changeToRomanFailTest{String, String}[1]" classname="model.ModelTest" time="0.009"/>
+  <testcase name="changeToRomanFailTest{String, String}[2]" classname="model.ModelTest" time="0"/>
+  <testcase name="changeToRomanFailTest{String, String}[3]" classname="model.ModelTest" time="0"/>
+  <testcase name="changeToRomanFailTest{String, String}[4]" classname="model.ModelTest" time="0.001"/>
+  <testcase name="changeToRomanFailTest{String, String}[5]" classname="model.ModelTest" time="0.001"/>
+  <testcase name="isRomanNumberTest{String}[1]" classname="model.ModelTest" time="0.001"/>
+  <testcase name="isRomanNumberTest{String}[2]" classname="model.ModelTest" time="0"/>
+  <testcase name="isRomanNumberTest{String}[3]" classname="model.ModelTest" time="0"/>
+  <testcase name="isRomanNumberTest{String}[4]" classname="model.ModelTest" time="0"/>
+  <testcase name="isRomanNumberTest{String}[5]" classname="model.ModelTest" time="0"/>
+  <testcase name="isRomanNumberTest{String}[6]" classname="model.ModelTest" time="0"/>
+  <testcase name="isRomanNumberTest{String}[7]" classname="model.ModelTest" time="0.001"/>
+  <testcase name="isRomanNumberTest{String}[8]" classname="model.ModelTest" time="0"/>
+  <testcase name="isRomanNumberTest{String}[9]" classname="model.ModelTest" time="0.001"/>
+  <testcase name="isRomanNumberTest{String}[10]" classname="model.ModelTest" time="0.001"/>
+  <testcase name="isRomanNumberTest{String}[11]" classname="model.ModelTest" time="0"/>
+  <testcase name="isArabicNumberTest{String}[1]" classname="model.ModelTest" time="0.001"/>
+  <testcase name="isArabicNumberTest{String}[2]" classname="model.ModelTest" time="0"/>
+  <testcase name="isArabicNumberTest{String}[3]" classname="model.ModelTest" time="0.001"/>
+  <testcase name="isArabicNumberTest{String}[4]" classname="model.ModelTest" time="0.001"/>
+  <testcase name="isArabicNumberTest{String}[5]" classname="model.ModelTest" time="0.001"/>
+  <testcase name="isArabicNumberTest{String}[6]" classname="model.ModelTest" time="0.001"/>
+  <testcase name="isArabicNumberTest{String}[7]" classname="model.ModelTest" time="0.001"/>
+  <testcase name="changeToArabicTest{String, String}[1]" classname="model.ModelTest" time="0.002"/>
+  <testcase name="changeToArabicTest{String, String}[2]" classname="model.ModelTest" time="0"/>
+  <testcase name="changeToArabicTest{String, String}[3]" classname="model.ModelTest" time="0"/>
+  <testcase name="changeToArabicTest{String, String}[4]" classname="model.ModelTest" time="0.001"/>
+  <testcase name="changeToArabicTest{String, String}[5]" classname="model.ModelTest" time="0"/>
+  <testcase name="changeToArabicFailTest{String, String}[1]" classname="model.ModelTest" time="0.002"/>
+  <testcase name="changeToArabicFailTest{String, String}[2]" classname="model.ModelTest" time="0.001"/>
+  <testcase name="changeToArabicFailTest{String, String}[3]" classname="model.ModelTest" time="0"/>
+  <testcase name="changeToArabicFailTest{String, String}[4]" classname="model.ModelTest" time="0"/>
+  <testcase name="changeToArabicFailTest{String, String}[5]" classname="model.ModelTest" time="0"/>
+  <testcase name="changeToRomanExceptionTest{String}[1]" classname="model.ModelTest" time="0"/>
+  <testcase name="changeToRomanExceptionTest{String}[2]" classname="model.ModelTest" time="0"/>
+  <testcase name="changeToRomanExceptionTest{String}[3]" classname="model.ModelTest" time="0"/>
+  <testcase name="changeToRomanExceptionTest{String}[4]" classname="model.ModelTest" time="0.001"/>
+  <testcase name="changeToRomanExceptionTest{String}[5]" classname="model.ModelTest" time="0.001"/>
+  <testcase name="isRomanNumberFailTest{String}[1]" classname="model.ModelTest" time="0"/>
+  <testcase name="isRomanNumberFailTest{String}[2]" classname="model.ModelTest" time="0.001"/>
+  <testcase name="isRomanNumberFailTest{String}[3]" classname="model.ModelTest" time="0.001"/>
+  <testcase name="isRomanNumberFailTest{String}[4]" classname="model.ModelTest" time="0.001"/>
+  <testcase name="isRomanNumberFailTest{String}[5]" classname="model.ModelTest" time="0.001"/>
+  <testcase name="changeToRomanTest{String, String}[1]" classname="model.ModelTest" time="0"/>
+  <testcase name="changeToRomanTest{String, String}[2]" classname="model.ModelTest" time="0"/>
+  <testcase name="changeToRomanTest{String, String}[3]" classname="model.ModelTest" time="0"/>
+  <testcase name="changeToRomanTest{String, String}[4]" classname="model.ModelTest" time="0"/>
+  <testcase name="changeToRomanTest{String, String}[5]" classname="model.ModelTest" time="0"/>
+</testsuite>

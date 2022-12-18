@@ -1,0 +1,59 @@
+@options
+@packages
+@argfile
+-encoding
+'UTF-8'
+-protected
+-source
+'17'
+-sourcepath
+'D:/Pobrane/Piątek.Bartek.ćw3/NumberSystemConverter/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2022. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'D:/Pobrane/Piątek.Bartek.ćw3/NumberSystemConverter/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'NumberSystemConverter 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'NumberSystemConverter 1.0-SNAPSHOT API'
+com.mycompany.NSC
+model
+view
+'D:/Pobrane/Piątek.Bartek.ćw3/NumberSystemConverter/src/main/java/com/mycompany/NSC/NSC.java'
+'D:/Pobrane/Piątek.Bartek.ćw3/NumberSystemConverter/src/main/java/com/mycompany/NSC/package-info.java'
+'D:/Pobrane/Piątek.Bartek.ćw3/NumberSystemConverter/src/main/java/model/Model.java'
+'D:/Pobrane/Piątek.Bartek.ćw3/NumberSystemConverter/src/main/java/model/NumberOutOfBoundsExeption.java'
+'D:/Pobrane/Piątek.Bartek.ćw3/NumberSystemConverter/src/main/java/model/package-info.java'
+'D:/Pobrane/Piątek.Bartek.ćw3/NumberSystemConverter/src/main/java/view/package-info.java'
+'D:/Pobrane/Piątek.Bartek.ćw3/NumberSystemConverter/src/main/java/view/TableModel.java'
+'D:/Pobrane/Piątek.Bartek.ćw3/NumberSystemConverter/src/main/java/view/View.java'
+'D:/Pobrane/Piątek.Bartek.ćw3/NumberSystemConverter/src/main/java/view/Window.java'
+D:\Pobrane\Piątek.Bartek.ćw3\NumberSystemConverter\src\main\java = 1669641408000
+D:\Pobrane\Piątek.Bartek.ćw3\NumberSystemConverter\target\site\apidocs\allclasses-index.html = 1671386579071
+D:\Pobrane\Piątek.Bartek.ćw3\NumberSystemConverter\target\site\apidocs\allpackages-index.html = 1671386579074
+D:\Pobrane\Piątek.Bartek.ćw3\NumberSystemConverter\target\site\apidocs\copy.svg = 1671386579204
+D:\Pobrane\Piątek.Bartek.ćw3\NumberSystemConverter\target\site\apidocs\element-list = 1671386578817
+D:\Pobrane\Piątek.Bartek.ćw3\NumberSystemConverter\target\site\apidocs\help-doc.html = 1671386579138
+D:\Pobrane\Piątek.Bartek.ćw3\NumberSystemConverter\target\site\apidocs\index-all.html = 1671386579121
+D:\Pobrane\Piątek.Bartek.ćw3\NumberSystemConverter\target\site\apidocs\index.html = 1671386579043
+D:\Pobrane\Piątek.Bartek.ćw3\NumberSystemConverter\target\site\apidocs\jquery-ui.overrides.css = 1671386579335
+D:\Pobrane\Piątek.Bartek.ćw3\NumberSystemConverter\target\site\apidocs\member-search-index.js = 1671386579083
+D:\Pobrane\Piątek.Bartek.ćw3\NumberSystemConverter\target\site\apidocs\module-search-index.js = 1671386579077
+D:\Pobrane\Piątek.Bartek.ćw3\NumberSystemConverter\target\site\apidocs\overview-summary.html = 1671386579132
+D:\Pobrane\Piątek.Bartek.ćw3\NumberSystemConverter\target\site\apidocs\overview-tree.html = 1671386579037
+D:\Pobrane\Piątek.Bartek.ćw3\NumberSystemConverter\target\site\apidocs\package-search-index.js = 1671386579080
+D:\Pobrane\Piątek.Bartek.ćw3\NumberSystemConverter\target\site\apidocs\script.js = 1671386579199
+D:\Pobrane\Piątek.Bartek.ćw3\NumberSystemConverter\target\site\apidocs\search-page.js = 1671386579208
+D:\Pobrane\Piątek.Bartek.ćw3\NumberSystemConverter\target\site\apidocs\search.html = 1671386579125
+D:\Pobrane\Piątek.Bartek.ćw3\NumberSystemConverter\target\site\apidocs\search.js = 1671386579206
+D:\Pobrane\Piątek.Bartek.ćw3\NumberSystemConverter\target\site\apidocs\serialized-form.html = 1671386578932
+D:\Pobrane\Piątek.Bartek.ćw3\NumberSystemConverter\target\site\apidocs\stylesheet.css = 1671386579174
+D:\Pobrane\Piątek.Bartek.ćw3\NumberSystemConverter\target\site\apidocs\tag-search-index.js = 1671386579085
+D:\Pobrane\Piątek.Bartek.ćw3\NumberSystemConverter\target\site\apidocs\type-search-index.js = 1671386579081
