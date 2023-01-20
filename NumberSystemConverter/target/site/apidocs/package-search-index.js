@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.mycompany.zadanie3web"},{"l":"com.mycompany.zadanie3web.resources"},{"l":"javaServlets"},{"l":"myModel"}];updateSearchResults();

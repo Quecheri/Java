@@ -1,0 +1,61 @@
+@options
+@packages
+@argfile
+-classpath
+'C:/Users/Quecheri/.m2/repository/org/apache/derbyclient/derby-client/10.14.2.0/derby-client-10.14.2.0.jar;C:/Users/Quecheri/.m2/repository/jakarta/platform/jakarta.jakartaee-api/8.0.0/jakarta.jakartaee-api-8.0.0.jar;C:/Users/Quecheri/.m2/repository/org/apache/commons/commons-lang3/3.1/commons-lang3-3.1.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'1.8'
+-sourcepath
+'D:/Pobrane/Pi靖ek.Bart這miej.cw5.prototyp (1)/Zadanie3Web/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'D:/Pobrane/Pi靖ek.Bart這miej.cw5.prototyp (1)/Zadanie3Web/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Zadanie3Web-1.0-SNAPSHOT 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' 'D:/Pobrane/Pi靖ek.Bart這miej.cw5.prototyp (1)/Zadanie3Web/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'Zadanie3Web-1.0-SNAPSHOT 1.0-SNAPSHOT API'
+com.mycompany.zadanie3web
+com.mycompany.zadanie3web.resources
+javaServlets
+myModel
+'D:/Pobrane/Pi靖ek.Bart這miej.cw5.prototyp (1)/Zadanie3Web/src/main/java/com/mycompany/zadanie3web/JakartaRestConfiguration.java'
+'D:/Pobrane/Pi靖ek.Bart這miej.cw5.prototyp (1)/Zadanie3Web/src/main/java/com/mycompany/zadanie3web/resources/JakartaEE8Resource.java'
+'D:/Pobrane/Pi靖ek.Bart這miej.cw5.prototyp (1)/Zadanie3Web/src/main/java/javaServlets/FormServlet.java'
+'D:/Pobrane/Pi靖ek.Bart這miej.cw5.prototyp (1)/Zadanie3Web/src/main/java/javaServlets/TableGeneratorServlet.java'
+'D:/Pobrane/Pi靖ek.Bart這miej.cw5.prototyp (1)/Zadanie3Web/src/main/java/myModel/Model.java'
+'D:/Pobrane/Pi靖ek.Bart這miej.cw5.prototyp (1)/Zadanie3Web/src/main/java/myModel/NumberOutOfBoundsExeption.java'
+C:\Users\Quecheri\.m2\repository\org\apache\derbyclient\derby-client\10.14.2.0\derby-client-10.14.2.0.jar = 1523031016000
+C:\Users\Quecheri\.m2\repository\jakarta\platform\jakarta.jakartaee-api\8.0.0\jakarta.jakartaee-api-8.0.0.jar = 1671387830739
+C:\Users\Quecheri\.m2\repository\org\apache\commons\commons-lang3\3.1\commons-lang3-3.1.jar = 1666894395916
+D:\Pobrane\Pi靖ek.Bart這miej.cw5.prototyp (1)\Zadanie3Web\src\main\java = 1673271334000
+D:\Pobrane\Pi靖ek.Bart這miej.cw5.prototyp (1)\Zadanie3Web\target\site\apidocs\allclasses-index.html = 1674250552403
+D:\Pobrane\Pi靖ek.Bart這miej.cw5.prototyp (1)\Zadanie3Web\target\site\apidocs\allpackages-index.html = 1674250552406
+D:\Pobrane\Pi靖ek.Bart這miej.cw5.prototyp (1)\Zadanie3Web\target\site\apidocs\element-list = 1674250552233
+D:\Pobrane\Pi靖ek.Bart這miej.cw5.prototyp (1)\Zadanie3Web\target\site\apidocs\help-doc.html = 1674250552430
+D:\Pobrane\Pi靖ek.Bart這miej.cw5.prototyp (1)\Zadanie3Web\target\site\apidocs\index-all.html = 1674250552425
+D:\Pobrane\Pi靖ek.Bart這miej.cw5.prototyp (1)\Zadanie3Web\target\site\apidocs\index.html = 1674250552380
+D:\Pobrane\Pi靖ek.Bart這miej.cw5.prototyp (1)\Zadanie3Web\target\site\apidocs\jquery-ui.overrides.css = 1674250552445
+D:\Pobrane\Pi靖ek.Bart這miej.cw5.prototyp (1)\Zadanie3Web\target\site\apidocs\member-search-index.js = 1674250552410
+D:\Pobrane\Pi靖ek.Bart這miej.cw5.prototyp (1)\Zadanie3Web\target\site\apidocs\module-search-index.js = 1674250552407
+D:\Pobrane\Pi靖ek.Bart這miej.cw5.prototyp (1)\Zadanie3Web\target\site\apidocs\overview-summary.html = 1674250552426
+D:\Pobrane\Pi靖ek.Bart這miej.cw5.prototyp (1)\Zadanie3Web\target\site\apidocs\overview-tree.html = 1674250552367
+D:\Pobrane\Pi靖ek.Bart這miej.cw5.prototyp (1)\Zadanie3Web\target\site\apidocs\package-search-index.js = 1674250552408
+D:\Pobrane\Pi靖ek.Bart這miej.cw5.prototyp (1)\Zadanie3Web\target\site\apidocs\script.js = 1674250552434
+D:\Pobrane\Pi靖ek.Bart這miej.cw5.prototyp (1)\Zadanie3Web\target\site\apidocs\search.js = 1674250552438
+D:\Pobrane\Pi靖ek.Bart這miej.cw5.prototyp (1)\Zadanie3Web\target\site\apidocs\serialized-form.html = 1674250552296
+D:\Pobrane\Pi靖ek.Bart這miej.cw5.prototyp (1)\Zadanie3Web\target\site\apidocs\stylesheet.css = 1674250552432
+D:\Pobrane\Pi靖ek.Bart這miej.cw5.prototyp (1)\Zadanie3Web\target\site\apidocs\tag-search-index.js = 1674250552410
+D:\Pobrane\Pi靖ek.Bart這miej.cw5.prototyp (1)\Zadanie3Web\target\site\apidocs\type-search-index.js = 1674250552409
