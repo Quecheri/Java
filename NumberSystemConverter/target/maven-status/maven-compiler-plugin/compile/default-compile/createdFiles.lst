@@ -1,6 +1,4 @@
 myModel\Model.class
 javaServlets\FormServlet.class
 myModel\NumberOutOfBoundsExeption.class
-com\mycompany\zadanie3web\JakartaRestConfiguration.class
 javaServlets\TableGeneratorServlet.class
-com\mycompany\zadanie3web\resources\JakartaEE8Resource.class
